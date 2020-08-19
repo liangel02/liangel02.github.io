@@ -33,10 +33,6 @@ module.exports = {
 }
 
 module.exports = {
-  pathPrefix: "/website",
-}
-
-module.exports = {
   siteMetadata: settings.meta,
   plugins: [
     {
