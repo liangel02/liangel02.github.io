@@ -33,6 +33,10 @@ module.exports = {
 }
 
 module.exports = {
+  pathPrefix: "/liangel02.github.io",
+}
+
+module.exports = {
   siteMetadata: settings.meta,
   plugins: [
     {
