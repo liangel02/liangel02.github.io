@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Personal Project
-slug: wics
+slug: personalproject
 date: 2020-05-13 12:46
 description: 
 featuredImage: ../images/ml.jpg
