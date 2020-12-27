@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Personal Project
-slug: personalproject
+title: Personal Project - Parkinson's Diagnosis
+slug: parkinsons
 date: 2020-05-13 12:46
 description: 
 featuredImage: ../images/ml.jpg
